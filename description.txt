@@ -1,0 +1,1 @@
+I filtered the data for expenditures on personnel compensation that are over 40,000. In the first quarter of 2017, there were 358 personnel who received over 40,000. Of these expenditures, the mean was 41,635.803, and the max was 43,125.

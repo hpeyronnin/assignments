@@ -1,0 +1,161 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         90
+	Longest value:         7 characters
+	Most common values:    None (266x)
+	                       B000213 (2x)
+	                       H000324 (2x)
+	                       L000263 (2x)
+	                       A000374 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         127
+	Longest value:         30 characters
+	Most common values:    COMMITTEE ON APPROPRIATIONS (34x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (28x)
+	                       JOINT COMMMITTEE ON TAXATION (23x)
+	                       LEGISLATIVE COUNSEL (20x)
+	                       TRANSPORTATION-INFRASTRUCTURE (15x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (358x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         9
+	Longest value:         30 characters
+	Most common values:    GENERAL EXPENDITURES (122x)
+	                       OFFICIAL EXPENSES OF MEMBERS (92x)
+	                       SALARIES  OFFICERS & EMPLOYEES (47x)
+	                       PERSONNEL (34x)
+	                       APPROPRIATIONS COMMITTEE (34x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (358x)
+
+  6. "DATE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (358x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (358x)
+
+  8. "RECORDID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (358x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         358
+	Longest value:         25 characters
+	Most common values:    ANTELL GEOFFREY (1x)
+	                       BURKS JONATHAN (1x)
+	                       CALLAS GEORGE A (1x)
+	                       EPLEY MARK D (1x)
+	                       HALPERN HUGH N. (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2017-01-01
+	Largest value:         2017-01-07
+	Most common values:    2017-01-03 (216x)
+	                       2017-01-01 (140x)
+	                       2017-01-07 (1x)
+	                       2017-01-05 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2017-03-31
+	Largest value:         2017-03-31
+	Most common values:    2017-03-31 (358x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         140
+	Longest value:         30 characters
+	Most common values:    CHIEF OF STAFF (98x)
+	                       SENIOR COUNSEL (19x)
+	                       STAFF DIRECTOR (18x)
+	                       CLERK (10x)
+	                       STAFF ASSISTANT (9x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         60
+	Smallest value:        40,040
+	Largest value:         43,125
+	Sum:                   14,905,617.45
+	Mean:                  41,635.803
+	Median:                41,706.6
+	StDev:                 767.021
+	Most common values:    41,167.13 (86x)
+	                       42,102.75 (53x)
+	                       42,674.01 (40x)
+	                       42,166.67 (39x)
+	                       41,725.7 (15x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,017
+	Largest value:         2,017
+	Sum:                   722,086
+	Mean:                  2,017
+	Median:                2,017
+	StDev:                 0
+	Most common values:    2,017 (358x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         358
+	Longest value:         25 characters
+	Most common values:    ANTELL GEOFFREY (1x)
+	                       BURKS JONATHAN (1x)
+	                       CALLAS GEORGE A (1x)
+	                       EPLEY MARK D (1x)
+	                       HALPERN HUGH N. (1x)
+
+Row count: 358
